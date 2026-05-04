@@ -7,7 +7,7 @@ public class DataType {
 	 * #proper memory allocation
 	 * #proper operation to perform
 	 * 
-	 * ------- 1.Primitive Datatype
+	 * ------- 1.Primitive Data type
 	 * 				a. byte: 1 byte(8 bit) : -128 to 127
 	 * 				b. short : 2 byte (16 bit) : -32768 to 32767
 	 * 				c. int : 4 byte : -2^31 to 2^31-1

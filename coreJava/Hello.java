@@ -10,7 +10,7 @@ public class Hello {
 	}
 
 }
-}
+
 /*
 1.javac: {source code(.java file) -> byte code (.class. file)}
     a. syntax analysis 
